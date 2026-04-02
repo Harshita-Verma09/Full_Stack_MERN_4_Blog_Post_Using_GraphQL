@@ -214,8 +214,8 @@ Individual post component displaying post details and delete functionality.
 Create a `.env` file in the backend directory:
 
 ```env
-MONGO_URI=mongodb://localhost:27017/blog
-NODE_ENV=development
+MONGO_URI
+NODE_ENV
 ```
 
 ##  Useful Resources
