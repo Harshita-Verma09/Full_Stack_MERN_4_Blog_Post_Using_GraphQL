@@ -3,8 +3,6 @@
 A full-stack GraphQL blog application built with React, Apollo Client, and GraphQL API. Create, read, and delete blog posts with a beautiful modern UI.
 
 ##  Features
-
-
 - **GraphQL API** - Efficient data querying and mutations with Apollo Server
 - **MongoDB Database** - Persistent storage for blog posts
 - **React Frontend** - Modern UI with Vite build tool and Apollo Client
