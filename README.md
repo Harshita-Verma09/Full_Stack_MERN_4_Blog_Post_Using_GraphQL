@@ -9,7 +9,6 @@ A full-stack GraphQL blog application built with React, Apollo Client, and Graph
 - **React Frontend** - Modern UI with Vite build tool and Apollo Client
 - **Create Posts** - Add new blog posts with title and content
 - **View Posts** - Browse all published posts with creation dates
-- **Delete Posts** - Remove posts from the database
 - **Beautiful UI** - Glass-morphism design with gradient background and animated blobs
 - **CORS Enabled** - Secure cross-origin requests between frontend and backend
 
