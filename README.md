@@ -18,8 +18,6 @@ A full-stack GraphQL blog application built with React, Apollo Client, and Graph
 
 
 ```
-
-
 3_Blog_Post/
 ├── backend/
 │   ├── config/
