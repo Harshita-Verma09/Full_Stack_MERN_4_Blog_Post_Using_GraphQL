@@ -13,6 +13,7 @@ A full-stack GraphQL blog application built with React, Apollo Client, and Graph
 - **CORS Enabled** - Secure cross-origin requests between frontend and backend
 
 
+
 ##  Project Structure
 
 ```
