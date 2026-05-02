@@ -1,4 +1,4 @@
-#  Blog Post Using GraphQL
+#  Blog Post Using GraphQl
 
 A full-stack GraphQL blog application built with React, Apollo Client, and GraphQL API. Create, read, and delete blog posts with a beautiful modern UI.
 
