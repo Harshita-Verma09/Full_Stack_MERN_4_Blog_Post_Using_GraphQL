@@ -11,6 +11,7 @@ A full-stack GraphQL blog application built with React, Apollo Client, and Graph
 - **View Posts** - Browse all published posts with creation dates
 - **Beautiful UI** - Glass-morphism design with gradient background and animated blobs
 - **CORS Enabled** - Secure cross-origin requests between frontend and backend
+- 
 
 
 
