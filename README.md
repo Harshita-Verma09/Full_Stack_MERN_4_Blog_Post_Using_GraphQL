@@ -6,6 +6,7 @@ A full-stack GraphQL blog application built with React, Apollo Client, and Graph
 
 
 
+
 - **GraphQL API** - Efficient data querying and mutations with Apollo Server
 - **MongoDB Database** - Persistent storage for blog posts
 - **React Frontend** - Modern UI with Vite build tool and Apollo Client
